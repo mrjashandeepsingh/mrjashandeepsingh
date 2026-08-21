@@ -1,4 +1,4 @@
-👋 Hi, I'm Jashandeep Singh
+# 👋 Hi, I'm Jashandeep Singh
 
 Computer Science Engineering Student | Aspiring Software Engineer | Full Stack Developer
 
@@ -8,7 +8,7 @@ Currently exploring Web Development, Java, DSA, Backend Engineering, Databases, 
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 - 🎓 BTech CSE student at Chandigarh Group of Colleges, Landran
 - 📊 9.58/10 CGPA
@@ -22,34 +22,32 @@ Currently exploring Web Development, Java, DSA, Backend Engineering, Databases, 
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+### Languages
 
-"C" (https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-"C++" (https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-Web Development
+### Web Development
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-Database & Tools
+### Database & Tools
 
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-"Vercel" (https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-"Netlify" (https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)---
 
----
-
-🌟 Featured Project
+## 🌟 Featured Project
 
 📅 Today's Schedule — Live College Timetable
 
@@ -68,7 +66,7 @@ Built With: HTML5 • CSS3 • JavaScript
 
 ---
 
-💼 Experience
+## 💼 Experience
 
 🤖 Google Gemini Student Ambassador 2026
 
@@ -80,28 +78,29 @@ Communique Marketing Solutions Pvt. Ltd.
 
 ---
 
-🎤 Leadership & Community
+## 🎤 Leadership & Community
 
-The Coders Show
+Council of Coders
 
-Founder & Host
+Founder
 
-A student-driven technology talk show focused on connecting students with technology professionals and sharing knowledge, experiences, and career insights.
+A student-driven technology club focused on connecting students with technology professionals and sharing knowledge, experiences, and career insights.
 
 From Campus to Career.
 
 ---
 
-🏆 Achievements & Activities
+## 🏆 Achievements & Activities
 
+- 🏅 Won Ideathon 2026 with Top 5 position  
 - 🏆 Participated in Smart India Hackathon 2025
 - 🤖 Google Gemini Student Ambassador 2026
-- 🎤 Founder & Host — The Coders Show
+- 🎤 Founders - Council of Coders
 - 💻 Building and deploying practical web projects
 
 ---
 
-📚 Currently Learning
+## 📚 Currently Learning
 
 Java
   ↓
@@ -121,15 +120,13 @@ My goal is to move beyond simply writing code and become an engineer who underst
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-"Jashandeep's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=mrjashandeepsingh&show_icons=true&theme=transparent)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=mrjashandeepsingh&layout=compact&theme=transparent)
+![GitHubCard profile card for mrjashandeepsingh](https://githubcard.com/g/D-afOvMOsvHIwD4E.svg)
 
 ---
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 📧 Email: mrjashandeepsingh1@gmail.com
 
@@ -139,4 +136,4 @@ My goal is to move beyond simply writing code and become an engineer who underst
 
 ---
 
-«Build. Break. Learn. Repeat.»
+« Build. Break. Learn. Repeat. »
